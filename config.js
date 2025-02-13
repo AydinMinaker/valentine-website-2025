@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Oh no, Aydin is clay 🥺",    // Shows when they go past 5000%
+        extreme: "Love you as much as Lacey 💗 💗",    // Shows when they go past 5000%
         high: "Love you as much as sushi 🍣",                // Shows when they go past 1000%
-        normal: "Love you as much as Lacey 💗 💗"                       // Shows when they go past 100%
+        normal: "Oh no, Aydin is clay 🥺"                       // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
