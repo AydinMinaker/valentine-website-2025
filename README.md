@@ -91,7 +91,7 @@ pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    bears: ['🐕', '🐻']                       // Bear emojis in background
 }
 
 // Questions and Buttons
@@ -99,8 +99,8 @@ questions: {
     first: {
         text: "Do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        noBtn: "No, you are stinky 😐",                               // No button text
+        secretAnswer: "You are my big big boulder 🤭🤭🤭"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -110,22 +110,22 @@ questions: {
     third: {
         text: "Will you be my Valentine...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        noBtn: "No 🤨"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "Oh no, Aydin is clay 🥺",  // Shows above 5000%
+    high: "Love you as much as sushi 🍣",              // Shows above 1000%
+    normal: "Love you as much as Lacey 💗 💗"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "YAY!!!",     // Celebration title
+    message: "I have the stinkiest, prettiest, smartest, beautifullest valentine now",          // Celebration message
+    emojis: "💗💕💗💐💐💗💕💗"                        // Celebration emojis
 }
 
 // Website Colors
